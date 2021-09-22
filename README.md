@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ctr7pl
-- 👀 I’m interested in: codeing
-- 🌱 I’m currently learning: c++
-- 💞️ I’m looking to collaborate on: code
+- 👀 I’m interested in: Operating systems, system tools, and other low-level projects.
+- 🌱 I’m currently learning: C++
+- 💞️ I’m looking to collaborate on: Anything related to what I'm interested in, or on my projects Ducky Linux and my operating system kernel.
 - 📫 How to reach me: ctr7pl.mail@gmail.com
 
 <!---
