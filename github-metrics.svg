@@ -175,12 +175,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="159.97548017981202" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="159.97548017981202" y="0" width="127.73600326930936" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="287.7114834491214" y="0" width="82.9955046996322" height="8" fill="#5e5086"/>
-                    <rect mask="url(#languages-bar)" x="370.7069881487536" y="0" width="54.813376924124775" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="425.52036507287835" y="0" width="33.163737910366436" height="8" fill="#199f4b"/>
-                    <rect mask="url(#languages-bar)" x="458.6841029832448" y="0" width="1.3158970167552104" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="160.06269592476488" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="160.06269592476488" y="0" width="127.80564263322883" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="287.86833855799375" y="0" width="83.10344827586208" height="8" fill="#5e5086"/>
+                    <rect mask="url(#languages-bar)" x="370.97178683385584" y="0" width="53.43260188087774" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="424.40438871473356" y="0" width="34.27899686520376" height="8" fill="#199f4b"/>
+                    <rect mask="url(#languages-bar)" x="458.6833855799373" y="0" width="1.316614420062696" height="8" fill="#427819"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -192,7 +192,7 @@
                                 Rust
                             </div>
                             <small>
-                                <div>34.78%</div>
+                                <div>34.8%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -203,7 +203,7 @@
                                 Haskell
                             </div>
                             <small>
-                                <div>18.04%</div>
+                                <div>18.07%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -214,7 +214,7 @@
                                 Vim script
                             </div>
                             <small>
-                                <div>7.21%</div>
+                                <div>7.45%</div>
                             </small>
                         </div>
                     </section>
@@ -227,7 +227,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>27.77%</div>
+                                <div>27.78%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -238,7 +238,7 @@
                                 Shell
                             </div>
                             <small>
-                                <div>11.92%</div>
+                                <div>11.62%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2537,7 +2537,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jul 2022, 11:15:07 (timezone America/Los_Angeles) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 10 Jul 2022, 12:10:23 (timezone America/Los_Angeles) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
