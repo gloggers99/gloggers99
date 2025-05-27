@@ -127,7 +127,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    222k added, 24.7k removed
+                                    306k added, 103k removed
                                 </div>
                             </section>
                             <section>
@@ -175,14 +175,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="388.6092888724441" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="388.6092888724441" y="0" width="60.30566478786081" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="448.9149536603049" y="0" width="3.6347379847779697" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="452.5496916450829" y="0" width="2.5630474175830398" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="455.1127390626659" y="0" width="1.8353536846660492" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="456.948092747332" y="0" width="1.4923423129786342" height="8" fill="#438eff"/>
-                    <rect mask="url(#languages-bar)" x="458.4404350603106" y="0" width="0.8907174014636874" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="459.33115246177425" y="0" width="0.6688475382256961" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="388.5897256007385" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="388.5897256007385" y="0" width="60.32064787537158" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="448.91037347611007" y="0" width="3.6345550057066736" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="452.5449284818168" y="0" width="2.5629183892904583" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="455.1078468711072" y="0" width="1.8352612897495169" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="456.94310816085675" y="0" width="1.4922671858548557" height="8" fill="#438eff"/>
+                    <rect mask="url(#languages-bar)" x="458.4353753467116" y="0" width="0.8958107860183364" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="459.33118613272995" y="0" width="0.668813867270074" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1306,6 +1306,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1330,7 +1335,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 May 2025, 16:14:27 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 May 2025, 18:14:35 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
