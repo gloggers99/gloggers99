@@ -3,9 +3,9 @@
 ## Contact Information
 
 - Email: [lucas.marta0799@gmail.com](mailto:lucas.marta0799@gmail.com)
-- [LinkedIn](linkedin.com/in/lucas-marta-498b2b32b](https://www.linkedin.com/in/lucas-marta-498b2b32b)
+- [LinkedIn](https://www.linkedin.com/in/lucas-marta-498b2b32b)
 ## About me
-I'm a 17-year-old programmer living in California. I enjoy working on lower-level (operating system stuff, backend stuff, etc.) projects in languages like C, C++, Rust & many more. I've been programming since 9-years-old and I hope to eventually put my skills to use for a big fancy company or maybe even start my own, who knows! Right now, I am employed by a fantastic Code Ninja's franchise where I share my knowledge with those younger than me.
+I'm a 17-year-old programmer living in California. I enjoy working on lower-level (operating system stuff, backend stuff, etc.) projects in languages like C, C++, Rust & many more. I've been programming since 9-years-old and I hope to eventually put my skills to use for a big fancy company or start my own! Who knows! Currently, I am employed by a fantastic Code Ninja's franchise, where I share my knowledge with those younger than me.
 
 ## Things to check out
 - [`cogito_api`](https://github.com/gloggers99/cogito_api)
