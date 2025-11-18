@@ -14,7 +14,7 @@ jobs:
 
           # Base config
           user: gloggers99
-          template: terminal
+          template: classic
           base: activity, community, repositories, metadata
           config_padding: 6%
           config_timezone: America/Los_Angeles
